@@ -1,4 +1,5 @@
-tax-info-validation
+Класс для проверки данных Юр.Лиц
 ===================
 
-Tax info validation class for Russia
+Использование:
+`Tax::validateTIN($tin)` - валидация ИНН
