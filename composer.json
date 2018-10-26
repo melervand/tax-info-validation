@@ -1,0 +1,12 @@
+{
+  "name": "melervand/tax-info-validation",
+  "description": "Класс для проверки данных Юр.Лиц",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ervand Melikian",
+      "email": "melervand@gmail.com"
+    }
+  ]
+}
