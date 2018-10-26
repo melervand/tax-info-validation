@@ -1,4 +1,6 @@
 <?php
+namespace TaxInfo;
+
 class Tax {
     public static function validateTIN($tin) {
         $tin = trim($tin);
