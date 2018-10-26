@@ -46,7 +46,7 @@ class Tax {
         return false;
     }
 
-    private static function validateBAN($ban) {
+    public static function validateBAN($ban) {
         //BAN - Bank account number/Номер банковского счета
         $ban = trim($ban);
         $sum = 0;
