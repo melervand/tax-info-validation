@@ -8,5 +8,10 @@
       "name": "Ervand Melikian",
       "email": "melervand@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  }
 }
